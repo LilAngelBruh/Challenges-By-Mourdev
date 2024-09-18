@@ -6,3 +6,7 @@
  * - Imprime el cálculo del área de un polígono de cada tipo.
  */
 
+function areas(b, h){
+    if (b == h) return b * h
+    
+}
